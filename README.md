@@ -1,10 +1,12 @@
-点击加入 [NTMiner官方QQ群](https://jq.qq.com/?_wv=1027&k=VhYXEDOG): 927979706
+## [开源矿工官网](http://dl.ntminer.top/)
+
+点击加入 [NTMiner官方QQ群](点击链接加入群聊【¹⁴开源矿工】：https://jq.qq.com/?_wv=1027&k=InoblLNZ): 892646046
 
 1. 开源矿工内置的所有内核均为原版，开源矿工永远不会额外增加矿工支出；
 2. 开源矿工永远开源；
 3. 开源矿工永远不会去破解国人开发的内核；
 
-## [下载地址1](https://github.com/ntminer/NtMiner/releases)&nbsp;&nbsp;&nbsp;&nbsp;[挖矿软件报毒](https://zhuanlan.zhihu.com/p/349794576)
+## [下载地址1](https://github.com/ntminer/NtMiner/releases)&nbsp;&nbsp;&nbsp;&nbsp;[挖矿软件报毒](https://ntminer.coding.net/s/a11e4820-0375-44cf-adcc-057239386f66)
 ### 从源码编译：Visual Studio 2019
 
 ## 开源软件
@@ -34,10 +36,10 @@
 
 类似开源矿工这些同类挖矿辅助工具降低了挖矿门槛帮助矿工管理矿机，获得一点收入是合理的，但是不能偷。
 
-点击加入 [NTMiner官方QQ群](https://jq.qq.com/?_wv=1027&k=VhYXEDOG): 927979706
+点击加入 [NTMiner官方QQ群](点击链接加入群聊【¹⁴开源矿工】：https://jq.qq.com/?_wv=1027&k=InoblLNZ): 892646046
 
 # 授权协议
 The LGPL license。
 
 # 友情链接
-[蜜蜂矿池](https://www.beepool.org/)&nbsp;&nbsp;&nbsp;&nbsp;[鱼池](https://www.f2pool.com/)&nbsp;&nbsp;&nbsp;&nbsp;[星火](https://www.sparkpool.com/)&nbsp;&nbsp;&nbsp;&nbsp;[BMiner](https://www.bminer.me/)&nbsp;&nbsp;&nbsp;&nbsp;[NBMiner](https://nbminer.com/)&nbsp;&nbsp;&nbsp;&nbsp;[loserhub](https://www.loserhub.cn/)&nbsp;&nbsp;&nbsp;&nbsp;[挖币网](http://www.wabi.com/)
+[鱼池](https://www.f2pool.com/)&nbsp;&nbsp;&nbsp;&nbsp;[BMiner](https://www.bminer.me/)&nbsp;&nbsp;&nbsp;&nbsp;[NBMiner](https://nbminer.com/)&nbsp;&nbsp;&nbsp;&nbsp;[挖币网](http://www.wabi.com/)

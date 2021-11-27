@@ -10,8 +10,8 @@ namespace NTMiner {
         public const ulong ULongG = 1024 * 1024 * 1024;
         public const long LongG = 1024 * 1024 * 1024;
 
-        public const string Version = "2.8.6";
-        private const string _build = "4";
+        public const string Version = "2.8.7";
+        private const string _build = "0";
         public const string VersionBuild = Version + "." + _build;
         public const string ManJiTag = "蛮吉";
         public const string ManXiaoManTag = "蛮小满";
@@ -61,7 +61,7 @@ namespace NTMiner {
         public const int NTMinerDaemonPort = 3337;
 
         public const int MinerStudioPort = 3338;
-        public const string DNSServer0 = "119.29.29.29";
+        public const string DNSServer0 = "114.114.114.114";
         public const string DNSServer1 = "223.5.5.5";
         public const string MinerClientFinderFileName = "MinerClientFinder.exe";
         public const string AtikmdagPatcherFileName = "AtikmdagPatcher.exe";
